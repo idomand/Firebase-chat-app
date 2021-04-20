@@ -7,8 +7,6 @@ import SignIn from "../src/components/SignIn";
 import SignOut from "../src/components/SignOut";
 import ChatRoom from "../src/components/ChatRoom";
 
-
-
 import { useAuthState } from "react-firebase-hooks/auth";
 
 export default function App() {
@@ -17,7 +15,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        <h1>⚛️🔥💬</h1>
+        <h1>🖥️💬✒️</h1>
         <SignOut />
       </header>
 
