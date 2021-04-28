@@ -13,7 +13,6 @@ export default function SignIn() {
       <button className="sign-in" onClick={signInWithGoogle}>
         Sign in with Google
       </button>
-      <p>holy shit this is cool </p>
     </>
   );
 }
