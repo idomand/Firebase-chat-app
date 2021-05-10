@@ -22,9 +22,9 @@ yarn install
 
 after that, opening the code in your browser of choice will result in this image:
 
-![](public/Twitter_clone_login.PNG)
+![](public/chat-app.PNG)
 
-from this point you can login the platform using your google account or using an email and password combo.
+from this point you can login the platform using your google account and start using the chat app.
 
 
 
