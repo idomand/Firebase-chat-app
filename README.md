@@ -8,7 +8,7 @@ The platform allows for user signup using their google account and communicated 
 
 ## Usage
 
-Link to live demo: https://ido-react-micro-blogging.firebaseapp.com/
+Link to live demo: https://react-firebase-chat-app-6121e.web.app/
 
 
 ### to run on your own computer
